@@ -13,7 +13,7 @@ Just looking at this, your mind will get full of questions, one of them may incl
    **EssentialsX was a good idea, don't get me wrong, but it was horribly designed.**
 3. so what features do you plan to fix and/or add?
 
-   **It includes, but not limited to: **
+   **It includes, but not limited to:**
    
    - Adding proper databases like MySQL, H2, etc. 
    - Asynchronous teleportation plugin-api-side (without the need of Paper).
