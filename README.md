@@ -21,7 +21,7 @@ Just looking at this, your mind will get full of questions, one of them may incl
    - Significant-optimizations to Micro-optimizations to performance
    - Ability to use a bunch of commands proxy-wide instead of server-wide
    - ACTUALLY deal with heavy tasks asynchronously
-   - Using a more optimized logging library called [SLF4J](https://www.slf4j.org/)
+   - Usage of [SLF4J](https://www.slf4j.org/) as a facade
    - Ability to open GUIs in spigot that usually could only be opened on Paper!
    - More than ever security and moderation features!
    - Greenbank economy Hook for certain economy needs.
